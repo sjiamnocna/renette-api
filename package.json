@@ -1,0 +1,17 @@
+{
+  "name": "renette-api",
+  "version": "1.0.0",
+  "description": "API calls and security for renette-api",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "API",
+    "fetch",
+    "security",
+    "Nette"
+  ],
+  "author": "sjiamnocna",
+  "license": "ISC"
+}
