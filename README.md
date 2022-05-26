@@ -1,5 +1,5 @@
 # Renette API class
-- Class for reaching Renette
+- Class for reaching [git@github.com:sjiamnocna/nette-minimal.git](https://github.com/sjiamnocna/nette-minimal)
 
 - Set for efficient using JSON AJAX requests with Nette Framework and React/Webpack/Node development. With simple Request Authentication
 
@@ -9,6 +9,9 @@
 
 - Tracy debugger tool is available if needed, add it as `<script>` to your index.html
 
-- use directory /server with [git@github.com:sjiamnocna/nette-minimal.git](https://github.com/sjiamnocna/nette-minimal)
+- Made for development on Linux as it's the most powerful tool for developers, but should work with Win or Mac with Node
 
-- Made for development on Linux as it's the most helpful for developers
+## How to make it work
+- Configure service name and key with [git@github.com:sjiamnocna/nette-minimal.git](https://github.com/sjiamnocna/nette-minimal) and redirect all requests to `www/index.php`
+
+- Include Tracy debugger JS script into the `index.html`
