@@ -237,4 +237,4 @@ class CAPI {
     }
 }
 
-exports.CAPI = CAPI
+export default CAPI
